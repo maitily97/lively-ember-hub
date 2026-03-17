@@ -1,9 +1,12 @@
 ---
-# To publish author profile pages, remove all the `build` and `cascade` settings below.
-build:
-  render: never
-cascade:
-  build:
-    render: never
-    list: always
+# Display name
+title: Ts. Dr. Shankar Karuppayah
+
+# Username (this should match the folder name)
+authors:
+- admin
+
+# Is this the primary user of the site?
+superuser: true
+
 ---
